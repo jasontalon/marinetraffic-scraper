@@ -1,0 +1,19 @@
+{
+  "name": "marinetraffic-scraper",
+  "version": "1.0.0",
+  "description": "fetches info from marinetraffic website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Talon",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "lodash": "^4.17.10",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.0"
+  }
+}
